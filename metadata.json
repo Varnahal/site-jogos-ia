@@ -1,0 +1,6 @@
+{
+  "name": "Vortex Studios",
+  "description": "Landing page de jogos moderna e interativa da Vortex Studios - Criando mundos extraordinários.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
